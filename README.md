@@ -1,2 +1,2 @@
-# LINQ-Implementation-practice
+# LINQ Implementation practice
 Implementation of common LINQ methods
